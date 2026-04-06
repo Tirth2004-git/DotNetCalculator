@@ -76,18 +76,6 @@ If the project is already built, run:
 CalculatorApp/CalculatorApp/bin/Debug/CalculatorApp.exe
 ```
 
----
-
-## 📸 Screenshots (Optional)
-
-> Add screenshots here to make your project more attractive
-> Example:
->
-> ```
-> ![Calculator UI](screenshot.png)
-> ```
-
----
 
 ## 🎯 Learning Outcomes
 
